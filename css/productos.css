@@ -1,0 +1,126 @@
+@charset "UTF-8";
+main{
+    width: 100%;
+}
+article{
+    text-align: justify;
+    clear:both;
+    width: 90%;
+    border: 1px solid #CADCE8	;
+    border-radius:10px;
+    margin-bottom:20px;
+    padding: 20px;
+}
+.productoMain{
+    margin:10px;
+    width:450px;
+    float: left;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.productos{
+    margin:10px;
+    width:200px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.izquierda{
+    float: left;
+}
+.dmBoton{
+    display: inline-block;
+}
+.descripcion{
+    padding: 20px;
+    height:350px;
+    display: flow-root;
+    background-color:#acbac4;
+    border-radius: 5px;
+    border: 1px solid #7c868d;
+}
+table{
+    border:2px solid #c8dbe7;
+    border-radius: 15px;
+    clear: both;
+}
+.red{
+    color:rgb(236, 47, 47);
+}
+.compra{
+    width: 55%;
+    float:left;
+    border-right:2px dotted black;
+    height:100%;
+}
+.precio{
+    text-align: right;
+    padding-right: 20px;
+}
+.precio p{
+    font-size: 10px;
+}
+.detalles{
+    width: 42%;
+    float:left;
+    height:95%;
+    margin-left:10px ;
+}
+.clientes{
+    text-align: right;
+}
+.datos{
+    margin-top: 15px;
+    background-color: #CADCE8;
+    border-radius: 10px;
+    width: 70%;
+    padding: 20px;
+}
+hr {
+    width: 98%;
+    border: none;
+    border-top: 2px dotted black;
+    height: 1px;
+}
+h2{
+    color: bisque;
+    text-align: left;
+    margin-left: 20px;
+}
+h4{
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.guias{
+    margin-left: 25px;
+    text-align: left;
+}
+.guias p{
+    font-size: 15px;
+    color: bisque;
+}
+.resmaMain{
+    text-align: center;
+    display: inline-block;
+    border: 2.5px solid #7171f1;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: whitesmoke;
+}
+.resma{
+    text-align: center;
+    display: inline-block;
+    border: 1px solid #7c868d;
+    border-radius: 10px;
+    width: 100px;
+    height: 50px;
+    background-color: whitesmoke;
+}
+.descripcion a{
+    color:black;
+}
+.clientes p{
+    float: right;
+    margin: 10px;
+    margin-top: 15px;
+}

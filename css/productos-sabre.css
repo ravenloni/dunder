@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+article{
+    text-align: justify;
+    display: inline-block;
+    clear:both;
+    border: 1px solid #CADCE8	;
+    border-radius:10px;
+    margin-bottom:20px;
+    padding: 20px;
+    width: 90%;
+}
+.productos{
+    margin:10px;
+    float: left;
+    width:250px;
+    margin-right: 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+h2, h3{
+    color: whitesmoke;
+    text-align: left;
+    margin-left: 20px;
+}
+.compra{
+    text-align: right;
+}
+.red{
+    color:rgb(236, 47, 47);
+}
+.cantidad{
+    width: 30px;
+}
+article a{
+    color: black;
+}
+.pdts-sabre{
+    width: 150px;
+}
+article h3{ 
+    color:black;
+}
