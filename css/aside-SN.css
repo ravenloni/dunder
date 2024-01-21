@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+.NY{
+    width: 90%;
+    margin-top: 20px;
+}
+.sucursales{
+    color:white;
+    text-align: left;
+}
+main{
+    float: left;
+    width: 78%;
+}
+aside{
+    float:right;
+    width: 20%;
+    margin-top:10px;
+    background-color:#597485;
+}
