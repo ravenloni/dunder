@@ -7,15 +7,13 @@ section{
 .contenedorSection{
     top: 10%;
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 section a{
     margin: 15px;
 }
 .sobre{
-    top:2%;
-    left: 5%;
-    position: absolute;
-    display: inline-block;
     margin: 20px;
     text-align: justify;
     border: 2px solid #3f547c;
@@ -33,10 +31,6 @@ section a{
     color: #3f547c;
 }
 .green{
-    top:2%;
-    left: 35%;
-    position: absolute;
-    display: inline-block;
     margin: 20px;
     text-align: justify;
     border: 2px solid  #648c4c ;
@@ -54,10 +48,6 @@ section a{
     color: #648c4c;
 }
 .productos{
-    top: 2%;
-    left: 65%;
-    position: absolute;
-    display: inline-block;
     margin: 20px;
     text-align: justify;
     border: 2px solid #b38105;
