@@ -32,12 +32,13 @@ article{
 }
 .descripcion{
     padding: 20px;
-    display: flow-root;
+    display: flex;
     background-color:#acbac4;
     border-radius: 5px;
     border: 1px solid #7c868d;
 }
 table{
+    margin-top: 10px;
     border:2px solid #c8dbe7;
     border-radius: 15px;
     clear: both;
