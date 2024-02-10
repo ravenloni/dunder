@@ -1,13 +1,12 @@
 @charset "UTF-8";
 
 section{
-    width: 78%;
+    width: 77%;
     float: right;
 }
 aside{
-    
     position: sticky;
-    top: 20px;
+    top:30px;
     float:left;
     width: 20%;
     margin-top:10px;

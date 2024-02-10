@@ -13,7 +13,7 @@ article{
 }
 .productoMain{
     margin:10px;
-    width:450px;
+    width:40%;
     float: left;
     border: 1px solid white;
     border-radius: 5px;
@@ -32,7 +32,6 @@ article{
 }
 .descripcion{
     padding: 20px;
-    height:350px;
     display: flow-root;
     background-color:#acbac4;
     border-radius: 5px;
@@ -82,7 +81,7 @@ hr {
     height: 1px;
 }
 h2{
-    color: bisque;
+    color: whitesmoke;
     text-align: left;
     margin-left: 20px;
 }
@@ -96,7 +95,7 @@ h4{
 }
 .guias p{
     font-size: 15px;
-    color: bisque;
+    color: whitesmoke;
 }
 .resmaMain{
     text-align: center;
