@@ -2,18 +2,19 @@
 
 section{
     display: flex;
+    justify-content: center;
 }
 .green{
+    display: flex;
     margin-left: 40px;
     margin-top:20px;
     margin-bottom:20px;
     padding: 0px;
     background-color: #648c4c;
     border-radius: 10px;
-    width: 95%;
+    width: 90%;
 } 
 article{
-    display: flexbox;
     text-align: justify;
     background-color: #f4f7f1;
     border: 1px solid #648c4c;
@@ -31,13 +32,12 @@ aside{
     margin: 0px;
     margin-right: 5px;
     float: right;
-    width: 19%;
+    width: 18%;
     height: 98.5%;
     padding-top: 5px;
 }
 aside img{
     border-radius: 10px;
-    float: left;
     width: 98%;
     height: 100%;
 }
