@@ -17,7 +17,7 @@ section a{
     text-align: justify;
     border: 2px solid #3f547c;
     border-radius: 10px;
-    width: 25%;
+    width: 30%;
     background-color:  #f4f7f1;
     color: black;
     padding-bottom: 20px;
@@ -34,7 +34,7 @@ section a{
     text-align: justify;
     border: 2px solid  #648c4c ;
     border-radius: 10px;
-    width: 25%;
+    width: 30%;
     background-color:  #f4f7f1;
     color: black;
     padding-bottom: 20px;
@@ -51,7 +51,7 @@ section a{
     text-align: justify;
     border: 2px solid #b38105;
     border-radius: 10px;
-    width: 25%;
+    width: 30%;
     background-color:  #f4f7f1;
     color: black;
     padding-bottom: 20px;
@@ -67,7 +67,7 @@ p{
     margin: 15px;
 }
 h3{
-    margin: 0px;
+    margin: -1px;
     border-top-right-radius: 5px;
     border-top-left-radius: 5px;
     height: 25px;
