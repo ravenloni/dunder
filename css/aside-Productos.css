@@ -10,8 +10,9 @@ aside{
     float:left;
     width: 20%;
     margin-top:10px;
-    background-color:#597485;
+    background-color:#52768d;
     height:500px;
+    padding-bottom: 15px;
 }
 .categoria{
     text-align: left;
