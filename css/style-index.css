@@ -1,14 +1,13 @@
 @charset "UTF-8";
 
 section{
-    display: block;
-    height: 450px;
+    display: flex;
+    padding: 60px 0px;
 }
 .contenedorSection{
-    top: 10%;
-    position: relative;
-    display: flex;
+    display: inline-flex;
     justify-content: center;
+    clear: both;
 }
 section a{
     margin: 15px;
@@ -19,9 +18,9 @@ section a{
     border: 2px solid #3f547c;
     border-radius: 10px;
     width: 25%;
-    height: 325px;
     background-color:  #f4f7f1;
     color: black;
+    padding-bottom: 20px;
 }
 .sobre h3{
     background-color:#3f547c;
@@ -36,9 +35,9 @@ section a{
     border: 2px solid  #648c4c ;
     border-radius: 10px;
     width: 25%;
-    height: 325px;
     background-color:  #f4f7f1;
     color: black;
+    padding-bottom: 20px;
 }
 .green h3{
     background-color: #648c4c;
@@ -53,9 +52,9 @@ section a{
     border: 2px solid #b38105;
     border-radius: 10px;
     width: 25%;
-    height: 325px;
     background-color:  #f4f7f1;
     color: black;
+    padding-bottom: 20px;
 }
 .productos h3{
     background-color: #b38105;
